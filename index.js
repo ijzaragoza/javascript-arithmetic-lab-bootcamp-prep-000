@@ -1,5 +1,1 @@
-var a, b
-a = Math.random
-b = Math.random
-
-a + b
+function add(a, b)
