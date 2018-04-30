@@ -1,7 +1,3 @@
-var number = 5
+var a, b
 
-number++
-
-number
-
-number--
+fun
